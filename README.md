@@ -18,7 +18,7 @@ In this lab, I created a File Integrity Monitor (FIM) and used it to create and 
 
 <p align="center">
 1. Run the program <br/>
-<img src="https://imgur.com/mb2Nqp2" height="80%" width="80%" alt="File Integrity Monitor Steps"/>
+<img src="![image](https://github.com/user-attachments/assets/b300a310-6841-4cb6-9ebd-7b366df00a6f)" height="80%" width="80%" alt="File Integrity Monitor Steps"/>
 <br />
 <br />
 2. Type "A" to create a baseline  <br/>
